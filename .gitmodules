@@ -1,0 +1,3 @@
+[submodule "magisk-modules-mrepo-clone"]
+	path = magisk-modules-mrepo-clone
+	url = https://github.com/TechFiveOSix/Magisk-Modules-Alt-Repo
